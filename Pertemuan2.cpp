@@ -25,6 +25,6 @@ void tampil luas () {
 }
 int main () {
     //begin
-    inputdata();
+    procedurInputData();
     tampilluas ();
 }
